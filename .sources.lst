@@ -1,0 +1,8 @@
+src/ICommand.h
+src/CommandManager.h
+src/CommandManager.cpp
+src/test.cpp
+
+src/ChangeCommand/ChangeCommand.h
+src/ChangeCommand/ChangeStringCommand.inl
+src/ChangeCommand/ChangeIntegerCommand.inl
