@@ -6,4 +6,4 @@ src/test.cpp
 src/ChangeCommand/ChangeCommand.h
 src/ChangeCommand/ChangeStringCommand.inl
 src/ChangeCommand/ChangeIntegerCommand.inl
-src/AddCommand/AddCommand.h
+src/SwapCommand/SwapCommand.h
